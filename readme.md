@@ -509,5 +509,6 @@ Want me to give you a **shopping/setup list** based on which one you lean toward
     - ![image](https://github.com/user-attachments/assets/e97f0ac3-2d78-4dd7-b518-00047b2fbdaa)
     - [Hubitat Elevation Home Automation Hub](https://www.amazon.com/Hubitat-Elevation-Automation-Pro-Compatible/dp/B0CR4G1G8M?ref_=ast_sto_dp)
   - [home-assistant](https://www.home-assistant.io/)
+    - [Home Assistant](https://www.amazon.com/dp/B0CXVKSG19?maas=maas_adg_BB51722E249D328CABB2F6DF1F8976CC_afap_abs&ref_=aa_maas&tag=maas )
     
 
