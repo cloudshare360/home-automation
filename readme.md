@@ -502,4 +502,12 @@ Here’s a detailed comparison, focused specifically on your needs: unified app 
 Want me to give you a **shopping/setup list** based on which one you lean toward? Or help confirm which devices (e.g., lock/thermostat model numbers) will definitely work before you buy?
 
 
+## Devices and Links
+- DeviceList
+  - [SmartThings Hub 3rd Generation [GP-U999SJVLGDA]](https://www.amazon.com/Samsung-SmartThings-Generation-GP-U999SJVLGDA-Automation/dp/B07FJGGWJL/ref=sr_1_8?c=ts&dib=eyJ2IjoiMSJ9.yUYCFKwRl9WppKWWkvZz2aczADmEp_xHYNfyjcrM7I8aTnwxVqzSpoOADRI5X5Wn-l6hfdVXXtcw1KYt0T_TpW14NHdZbzDpBQ8y6-hM7crCC5D1uC_6VPeeIypl1tjtVFfw_AiDqKIHO_wYEiFS-84gCnOHrJK4B1ysTvPp_N4DHRH8XjnDG4Qdri0VgRImQdrhNiPwOXTfV09Jbv8FYKRK7Vna3D_ZnJANyouujp6tafBOdzSxN6wvt8OiR_xPvUxOfnJU820-82o7xPt1X1Y7-ghClv1LdA1GHOn9q6o.LXO3Di05x0eEs7lOrRTzHUz_zPvsoiy0Hp4TqB-mqJI&dib_tag=se&keywords=Home+Automation+Hubs+%26+Controllers&qid=1743978756&s=lamps-light&sr=1-8&ts_id=6478740011)
+  - Hubitat
+    - ![image](https://github.com/user-attachments/assets/e97f0ac3-2d78-4dd7-b518-00047b2fbdaa)
+    - [Hubitat Elevation Home Automation Hub](https://www.amazon.com/Hubitat-Elevation-Automation-Pro-Compatible/dp/B0CR4G1G8M?ref_=ast_sto_dp)
+  - [home-assistant](https://www.home-assistant.io/)
+    
 
