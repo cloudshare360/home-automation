@@ -510,5 +510,6 @@ Want me to give you a **shopping/setup list** based on which one you lean toward
     - [Hubitat Elevation Home Automation Hub](https://www.amazon.com/Hubitat-Elevation-Automation-Pro-Compatible/dp/B0CR4G1G8M?ref_=ast_sto_dp)
   - [home-assistant](https://www.home-assistant.io/)
     - [Home Assistant](https://www.amazon.com/dp/B0CXVKSG19?maas=maas_adg_BB51722E249D328CABB2F6DF1F8976CC_afap_abs&ref_=aa_maas&tag=maas )
+  - [SONOFF SNZB-01P Zigbee Wireless Switch - Home Assistant Compatible](https://www.seeedstudio.com/SONOFF-SNZB-01P-Zigbee-Wireless-Switch-p-6363.html)
     
 
