@@ -511,5 +511,7 @@ Want me to give you a **shopping/setup list** based on which one you lean toward
   - [home-assistant](https://www.home-assistant.io/)
     - [Home Assistant](https://www.amazon.com/dp/B0CXVKSG19?maas=maas_adg_BB51722E249D328CABB2F6DF1F8976CC_afap_abs&ref_=aa_maas&tag=maas )
   - [SONOFF SNZB-01P Zigbee Wireless Switch - Home Assistant Compatible](https://www.seeedstudio.com/SONOFF-SNZB-01P-Zigbee-Wireless-Switch-p-6363.html)
+
+  - [SONOFF Zigbee 3.0 USB Dongle Plus Gateway, Universal Zigbee USB Gateway with Antenna for Home Assistant, IoBroker, Wireless Zigbee 3.0 USB Adapter](https://www.amazon.com/SONOFF-Gateway-Universal-Assistant-Wireless/dp/B09KXTCMSC/ref=pd_lpo_d_sccl_1/144-8908335-8260966?pd_rd_w=Kix8I&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=9J3FKCY2Q0KVDVX4Y906&pd_rd_wg=DTVzO&pd_rd_r=aeccf966-f700-4870-8e94-c4281055e6ee&pd_rd_i=B09KXTCMSC&psc=1)
     
 
