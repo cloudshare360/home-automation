@@ -1,6 +1,8 @@
 
 # Requirements/Questions
 
+# Need to avoid Safe Haven Monthly Subscription
+
 
 Got it — you're coming off a 3-year free Safe Haven subscription, and they now want to charge $25/month to continue smart home features like:
 * Alaram App integrated with following device
