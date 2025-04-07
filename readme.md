@@ -406,14 +406,20 @@ Here’s a detailed comparison, focused specifically on your needs: unified app 
 
 Certainly! Here are the links to the smart home hubs I mentioned earlier:
 
-1. **Aeotec Smart Home Hub**: This hub serves as a central control unit, connecting Z-Wave, Zigbee, or Wi-Fi devices that are Works with SmartThings certified. citeturn0search15
+1. [**Aeotec Smart Home Hub**](https://aeotec.com/products/aeotec-smartthings-hub/): This hub serves as a central control unit, connecting Z-Wave, Zigbee, or Wi-Fi devices that are Works with SmartThings certified. citeturn0search15
 
-2. **Homey Pro (2023)**: An advanced smart home hub supporting Zigbee, Z-Wave, Wi-Fi, Bluetooth, Infrared, Matter, and Thread. It's compatible with Apple Siri, Amazon Alexa, and Google Home. citeturn0search1
+
+
 
 3. **Hubitat Elevation**: A local, reliable, fast, and private home automation hub that connects your smart home devices. citeturn0search2
+ ** Very good Option.
+ It has 3 Models
+ - Best Model 
+ - [Hubitat Elevation® Model C-8 Pro](https://hubitat.com/products/7194323058731): 169$ 
+ - [Hubitat Elevation Home Automation Hub](https://www.amazon.com/Hubitat-Elevation-Automation-C-8-Compatible/dp/B0BSNZVDJ2/ref=sr_1_8?c=ts&dib=eyJ2IjoiMSJ9.fR27Gnh-oL9MOmExcRdy1VZJXHtIq5AZqcN3x-mgkF4Qn33hLT4EMCbjvzVdm9uNa-wdOa2s-Je08c2slHCB6E9Z2uWB6iN8GUMDlMs1BpZUioFIHRcLbERnxUNc9I2tfUFTa1tdBWbRljucCLa6q826ZWLvVO4FZWZ4sQwAeOFd67BOWVZU-DRc5b3HUMRzQdrhNiPwOXTfV09Jbv8FYDHucq6fBnZP7V3L5rJaLqIcysytvLHPrfxvFdpHKAuJl94Bxbwp7Y823hksEKavDLhzGTSSLjtv498ahfpiEp0.F_YoVFFfGJC7kqiGHdpBsOfoKD1KfwFJlEGFyO5yG6E&dib_tag=se&keywords=Home+Automation+Hubs+%26+Controllers&qid=1744001203&s=lamps-light&sr=1-8&ts_id=6478740011): 150$
+ 
+ - [Hubitat Elevation Home Automation Hub (Model C-7) Compatible with Alexa, HomeKit, Google Home, Zigbee, Z-Wave, Lutron](https://www.amazon.com/Hubitat-Elevation-Home-Automation-Hub/dp/B07D19VVTX/ref=sr_1_7?c=ts&dib=eyJ2IjoiMSJ9.fR27Gnh-oL9MOmExcRdy1VZJXHtIq5AZqcN3x-mgkF4Qn33hLT4EMCbjvzVdm9uNa-wdOa2s-Je08c2slHCB6E9Z2uWB6iN8GUMDlMs1BpZUioFIHRcLbERnxUNc9I2tfUFTa1tdBWbRljucCLa6q826ZWLvVO4FZWZ4sQwAeOFd67BOWVZU-DRc5b3HUMRzQdrhNiPwOXTfV09Jbv8FYDHucq6fBnZP7V3L5rJaLqIcysytvLHPrfxvFdpHKAuJl94Bxbwp7Y823hksEKavDLhzGTSSLjtv498ahfpiEp0.F_YoVFFfGJC7kqiGHdpBsOfoKD1KfwFJlEGFyO5yG6E&dib_tag=se&keywords=Home+Automation+Hubs+%26+Controllers&qid=1744001203&s=lamps-light&sr=1-7&ts_id=6478740011): 100$ Note: Try to avoid this model since, it has limited protocal support
 
-4. **Amazon Echo (4th Gen)**: This device combines premium sound with a built-in Zigbee smart home hub and Alexa voice assistant. citeturn0search3
+- [Aqara Smart Hub M3 for Home Automation, Matter Controller, Thread Border Router, Features Zigbee, Bluetooth, Wi-Fi, PoE, IR, Supports Alexa, Apple HomeKit, SmartThings, IFTTT](https://www.amazon.com/Aqara-Automation-Controller-Bluetooth-SmartThings/dp/B0CWLHSKYC/ref=sr_1_3_sspa?c=ts&dib=eyJ2IjoiMSJ9.nXlOJ8mov-FML19V1ZPznl2_R_pcy5tUh-lVWtUjww4H3CQ_PYfIO34qFqXqMTorUaYtTApFbvMyQbUuWGmdnz7I7F1xbg1EVmXqjJ-WFsDJ8LeAPUp1MmRkd5Oh6ZNe0nK5LRVqvRgtYrFDBNO43keOh4dmcb37QNejZ4uSN_svfu6cOY6FGcbnU9AwVg7mQdrhNiPwOXTfV09Jbv8FYKRK7Vna3D_ZnJANyouujp5pQx-G937P077a2LI-_vq1HBm4qUgYBZzAeKFFXNTGKPLUV-vEe9ywCqdqObPY3_w.wrBemzWtGR8IGDQ4Js_6X0hzzhapKLSJW8aIbOocZUI&dib_tag=se&keywords=Home+Automation+Hubs+%26+Controllers&qid=1744001397&s=lamps-light&sr=1-3-spons&ts_id=6478740011&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) : 109$ Best Value
 
-5. **Samsung SmartThings Station**: Beyond charging your device, SmartThings Station is designed to make your day and night run smoothly with smart features, automated experiences, and convenient control of your home. citeturn0search4
-
-If you need further assistance or have questions about any of these devices, feel free to ask! 
+If one time cost is not an issue go for the pro model which is 200$ which has max support.
