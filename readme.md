@@ -423,3 +423,5 @@ Certainly! Here are the links to the smart home hubs I mentioned earlier:
 - [Aqara Smart Hub M3 for Home Automation, Matter Controller, Thread Border Router, Features Zigbee, Bluetooth, Wi-Fi, PoE, IR, Supports Alexa, Apple HomeKit, SmartThings, IFTTT](https://www.amazon.com/Aqara-Automation-Controller-Bluetooth-SmartThings/dp/B0CWLHSKYC/ref=sr_1_3_sspa?c=ts&dib=eyJ2IjoiMSJ9.nXlOJ8mov-FML19V1ZPznl2_R_pcy5tUh-lVWtUjww4H3CQ_PYfIO34qFqXqMTorUaYtTApFbvMyQbUuWGmdnz7I7F1xbg1EVmXqjJ-WFsDJ8LeAPUp1MmRkd5Oh6ZNe0nK5LRVqvRgtYrFDBNO43keOh4dmcb37QNejZ4uSN_svfu6cOY6FGcbnU9AwVg7mQdrhNiPwOXTfV09Jbv8FYKRK7Vna3D_ZnJANyouujp5pQx-G937P077a2LI-_vq1HBm4qUgYBZzAeKFFXNTGKPLUV-vEe9ywCqdqObPY3_w.wrBemzWtGR8IGDQ4Js_6X0hzzhapKLSJW8aIbOocZUI&dib_tag=se&keywords=Home+Automation+Hubs+%26+Controllers&qid=1744001397&s=lamps-light&sr=1-3-spons&ts_id=6478740011&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) : 109$ Best Value
 
 If one time cost is not an issue go for the pro model which is 200$ which has max support.
+
+Refer to [soultion](./solution.md) file
