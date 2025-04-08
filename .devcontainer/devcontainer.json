@@ -1,0 +1,7 @@
+{
+    "name": "KanBAN DEV",
+    "extensions": [
+      "spryinno.kanpilot",
+      "cweijan.vscode-office"
+    ]
+  }
