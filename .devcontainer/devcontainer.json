@@ -1,7 +1,7 @@
 {
-    "name": "KanBAN DEV",
-    "extensions": [
-      "spryinno.kanpilot",
-      "cweijan.vscode-office"
-    ]
-  }
+  "name": "home-automation",
+  "extensions": [
+    "spryinno.kanpilot",
+    "cweijan.vscode-office"
+  ]
+}
