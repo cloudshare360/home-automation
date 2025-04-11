@@ -1,3 +1,4 @@
+Note: Thanks to Vija for providing inputs who is using Hubitat-Elevation-C7, Sutton Fields
 
 # Requirements/Questions
 
