@@ -1,0 +1,87 @@
+# Hubitat-Elevation-C7-C8-C8Pro
+Here's a detailed comparison chart of the Hubitat Elevation models C-7, C-8, and C-8 Pro to help you decide which best suits your smart home needs:
+
+| Feature                   | Hubitat C-7                      | Hubitat C-8                             | Hubitat C-8 Pro                         |
+|---------------------------|----------------------------------|-----------------------------------------|-----------------------------------------|
+| **Release Date**          | 2020                             | 2023                                    | 2024                                    |
+| **Processor**             | ARM Cortex-A7 @ 1.5GHz           | ARM Cortex-A7 @ 1.5GHz                  | ARM Cortex-A55 @ 2.0GHz                 |
+| **RAM**                   | 1 GB                             | 1 GB                                    | 2 GB                                    |
+| **Storage**               | 8 GB                             | 8 GB                                    | 16 GB                                   |
+| **Z-Wave**                | Z-Wave 700                       | Z-Wave 800 + Long Range (LR)            | Z-Wave 800 + Long Range (LR)            |
+| **Zigbee**                | Zigbee 1.2                       | Zigbee 3.0                              | Zigbee 3.0                              |
+| **External Antennas**     | No                               | Yes                                     | Yes                                     |
+| **Wi-Fi Support**         | No (Ethernet only)               | Yes (built-in Wi-Fi)                    | Yes (built-in Wi-Fi)                    |
+| **USB Port**              | Micro-USB                        | USB-C                                   | USB-C                                   |
+| **Matter Support**        | Partial via updates              | Full support                            | Full support                            |
+| **Thread Support**        | No                               | No                                      | No                                      |
+| **Zigbee Power Control**  | Fixed                            | Adjustable                              | Adjustable                              |
+| **Cloud Backup**          | With Hub Protect subscription    | With Hub Protect subscription           | With Hub Protect subscription           |
+| **Migration Tool**        | Yes (to C-8/C-8 Pro)             | Yes (from C-7)                          | Yes (from C-7/C-8)                      |
+| **Ideal Use Case**        | Basic setups, budget-conscious   | Medium to large homes, future-proofing  | Power users, large device networks      |
+| **Approx. Price**         | ~$95                             | ~$150                                   | ~$180                                   |
+
+**Key Differences:**
+
+- **C-8 vs. C-7:** The C-8 introduces external antennas, built-in Wi-Fi, USB-C, Zigbee 3.0, Z-Wave 800 with Long Range support, and enhanced Matter compatibility, offering better range and future-proofing over the C-7.
+
+- **C-8 Pro vs. C-8:** The C-8 Pro upgrades to a faster ARM Cortex-A55 processor and doubles the RAM to 2 GB, resulting in approximately 50% faster performance and improved handling of large device networks and complex automations. citeturn0search5
+
+**Considerations:**
+
+- If you have a small to medium setup and are budget-conscious, the **C-7** remains a viable option.
+
+- For enhanced range, built-in Wi-Fi, and better protocol support, the **C-8** is suitable for most users.
+
+- If you require higher performance for extensive device networks or complex automations, the **C-8 Pro** is the optimal choice.
+
+**Migration:**
+
+Hubitat provides a migration tool to facilitate moving from older models to newer ones, including transferring Z-Wave and Zigbee devices. Note that migrating from a newer model to an older one (e.g., C-8 Pro to C-8) may require a Hub Protect subscription. citeturn0search5
+
+For a visual comparison and further insights, you might find this video helpful:
+
+videoHubitat Elevation C-8 Pro vs. The Competitionturn0search8
+Great question. When comparing **range** across the Hubitat Elevation models (C-7, C-8, C-8 Pro), you're primarily looking at **wireless signal strength** and **coverage area** for Zigbee and Z-Wave. Here’s how they differ:
+
+---
+
+### 📡 **Z-Wave Range:**
+
+| Model     | Z-Wave Chip       | Z-Wave Range |
+|-----------|-------------------|--------------|
+| **C-7**   | Z-Wave 700        | ~100 ft (line-of-sight), typical real-world ~50 ft indoors |
+| **C-8**   | Z-Wave 800 + LR   | ~150–200 ft (line-of-sight), better wall penetration |
+| **C-8 Pro** | Z-Wave 800 + LR | Same as C-8, but more consistent performance due to better hardware |
+
+✅ **Z-Wave 800 LR (Long Range)** adds **significant improvements**:
+- 4x the range
+- Better wall/obstacle penetration
+- Lower power use
+- Higher reliability
+
+🔧 **Note:** Z-Wave LR requires compatible LR devices to fully benefit.
+
+---
+
+### 📶 **Zigbee Range:**
+
+| Model     | Zigbee Version | Zigbee Range |
+|-----------|----------------|--------------|
+| **C-7**   | Zigbee 1.2     | ~30–50 ft typical indoors |
+| **C-8**   | Zigbee 3.0 + External Antennas | ~50–100 ft indoors |
+| **C-8 Pro** | Zigbee 3.0 + External Antennas | Same as C-8, with slightly better signal stability |
+
+💡 **Why C-8/C-8 Pro are better:**
+- **External antennas** drastically improve range and reduce signal dropouts.
+- Zigbee 3.0 has **better mesh performance** and **backward compatibility**.
+
+---
+
+### 🧠 Summary:
+
+| Feature       | C-7              | C-8                      | C-8 Pro                   |
+|---------------|------------------|---------------------------|----------------------------|
+| Z-Wave Range  | Good             | **Much Better** (LR)     | **Much Better** + smoother |
+| Zigbee Range  | Basic            | **Improved** (external antennas) | **Same but more stable** |
+
+So in terms of **wireless range**, the **C-8 and C-8 Pro** are major upgrades, especially if your home is larger or has thick walls. Want help choosing based on your layout?
