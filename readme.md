@@ -1,8 +1,11 @@
-Note: Thanks to Vija , Sutton Fields for providing inputs (Vijay is using C7 Model where he is able to connect to )
-* Front Door Lock is working
-* Cam need to be replaced with Ring or Blink or any other systems, Cam need to be monitored using repective app
-* Garage can not be used need to be my myq app
-* Temperature control can be used with Hubitat
+Note: Thanks to Vija , Sutton Fields for providing inputs
+Vijay is using C7 Model where he is able to connect to 
+- List of Items
+  * Front Door Lock is working
+  * Cam need to be replaced with Ring or Blink or any other systems, Cam need to be monitored using repective app
+  * Garage can not be used need to be my myq app
+  * Temperature control can be used with Hubitat
+  
 
 
 
